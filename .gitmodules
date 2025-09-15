@@ -1,0 +1,21 @@
+[submodule "DL-Projects/Ensemble/AdaBoost(Disaster-Tweet-Classification)"]
+	path = DL-Projects/Ensemble/AdaBoost(Disaster-Tweet-Classification)
+	url = https://github.com/SakhareSohan/Adaboost-NaturalDisasterCommentIdentifier.git
+[submodule "DL-Projects/Regression/LSTM(Stock-Market-Prediction)-Implementation"]
+	path = DL-Projects/Regression/LSTM(Stock-Market-Prediction)-Implementation
+	url = https://github.com/SakhareSohan/LSTM-StockMarketPrediction.git
+[submodule "ML-Projects/Classification/SVC&Logistic-Regression(Diseases-Prediction)-Implementation"]
+	path = ML-Projects/Classification/SVC&Logistic-Regression(Diseases-Prediction)-Implementation
+	url = https://github.com/SakhareSohan/SVC_LogisticRegression-MultipleDiseasePrediction.git
+[submodule "ML-Projects/Regression/Point-Regression-Implementation"]
+	path = ML-Projects/Regression/Point-Regression-Implementation
+	url = https://github.com/SakhareSohan/Point-Regression-StudentPerformance.git
+[submodule "NLP-Projects/ASR/wav2vec-Implementation"]
+	path = NLP-Projects/ASR/wav2vec-Implementation
+	url = https://github.com/SakhareSohan/ASR-wav2vec-Implementation.git
+[submodule "NLP-Projects/RAG/Chunk-Overlapping-stg-Implementation"]
+	path = NLP-Projects/RAG/Chunk-Overlapping-stg-Implementation
+	url = https://github.com/SakhareSohan/RAG-ChunkOverlapping.git
+[submodule "Research-Papers-Materials/AI-ResearchPapers"]
+	path = Research-Papers-Materials/AI-ResearchPapers
+	url = https://github.com/SakhareSohan/AI-ResearchPapers.git
