@@ -19,3 +19,6 @@
 [submodule "Research-Papers-Materials/AI-ResearchPapers"]
 	path = Research-Papers-Materials/AI-ResearchPapers
 	url = https://github.com/SakhareSohan/AI-ResearchPapers.git
+[submodule "Research-Papers-Materials/ML-WebApps-Reference"]
+	path = Research-Papers-Materials/ML-WebApps-Reference
+	url = https://github.com/SakhareSohan/ML-WebApps-Reference.git
