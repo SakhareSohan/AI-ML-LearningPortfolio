@@ -41,14 +41,14 @@ Here is a selection of my key projects, each designed to solve a unique challeng
 > 
 > **Technical Highlight:** The core of this project is a robust, containerized (Docker) Node.js backend that orchestrates a complex data ingestion and retrieval workflow, demonstrating skills in both AI integration and modern backend engineering.
 > 
-> **[Go to Project ->](./NLP-Projects/RAG/Chunk-Overlapping-stg-Implementation/)**
+> **[Go to Project ->](./NLP-Projects/RAG/)**
 
 #### 2. Audio Transcription & Grammar Correction Pipeline
 > A high-fidelity audio processing pipeline that solves the problem of messy, grammatically incorrect speech-to-text output. This command-line tool leverages two distinct Hugging Face transformer models: **Wav2Vec2** for transcription and **T5** for sequence-to-sequence grammar correction, turning raw spoken audio into clean, application-ready text.
 > 
 > **Technical Highlight:** This project showcases the ability to chain different state-of-the-art transformer architectures to solve a complex, multi-step NLP problem, combined with audio preprocessing using `Librosa`.
 >
-> **[Go to Project ->](./NLP-Projects/ASR/wav2vec-Implementation/)**
+> **[Go to Project ->](./NLP-Projects/ASR/)**
 
 ---
 ### 🧠 DL (Deep Learning)
@@ -58,14 +58,14 @@ Here is a selection of my key projects, each designed to solve a unique challeng
 > 
 > **Technical Highlight:** The key achievement is the measurable performance increase from the ensemble method over any single model, demonstrating a practical understanding of how to mitigate individual model weaknesses to build a more reliable classifier.
 >
-> **[Go to Project ->](./DL-Projects/Ensemble/AdaBoost(Disaster-Tweet-Classification)/)**
+> **[Go to Project ->](./DL-Projects/Ensemble/)**
 
 #### 2. Stock Price Prediction with LSTM
 > A time-series forecasting project that uses a **Long Short-Term Memory (LSTM)** neural network to predict future stock prices. The application, with both Flask and Streamlit versions, allows users to input a stock ticker, fetches historical data via the `yfinance` API, and visualizes trends, moving averages, and predictions.
 > 
 > **Technical Highlight:** This project demonstrates the complete deep learning workflow: from data fetching and time-series preprocessing (scaling, windowing) to building, training, and deploying a Keras-based LSTM model in a user-facing application.
 >
-> **[Go to Project ->](./DL-Projects/Regression/LSTM(Stock-Market-Prediction)-Implementation/)**
+> **[Go to Project ->](./DL-Projects/Regression/)**
 
 ---
 ### 🧠 ML (Machine Learning)
@@ -75,14 +75,14 @@ Here is a selection of my key projects, each designed to solve a unique challeng
 > 
 > **Technical Highlight:** This project focuses on the practical application of fundamental classification algorithms and the creation of an intuitive UI for non-technical users, bridging the gap between a model and its real-world utility.
 >
-> **[Go to Project ->](./ML-Projects/Classification/SVC&Logistic-Regression(Diseases-Prediction)-Implementation/)**
+> **[Go to Project ->](./ML-Projects/Classification/)**
 
 #### 2. Student Performance Prediction
 > A full-stack data science demonstration using **Linear Regression**. This Flask application features a teacher-facing dashboard for exploratory data analysis and visualization (Seaborn/Matplotlib) and a student-facing form for data collection, showcasing the complete cycle from data insight to model deployment and new data acquisition.
 > 
 > **Technical Highlight:** The dual-interface design (teacher vs. student) and the focus on data visualization underscore a strong understanding of building comprehensive data products, not just predictive models.
 >
-> **[Go to Project ->](./ML-Projects/Regression/Point-Regression-Implementation/)**
+> **[Go to Project ->](./ML-Projects/Regression/)**
 
 ---
 
@@ -90,8 +90,8 @@ Here is a selection of my key projects, each designed to solve a unique challeng
 
 This section contains my personal knowledge base of curated research materials and analyses of reference applications, reflecting my commitment to staying current with the rapidly evolving field of AI.
 
--   **[AI Research Papers](./Research-Papers-Materials/AI-ResearchPapers/):** Notes and summaries on key AI research topics.
--   **[ML Web App References](./Research-Papers-Materials/ML-WebApps-Reference/):** An extensive library of over 20 reference ML web applications that I have analyzed to study different architectures and techniques.
+-   **[AI Research Papers](./Research-Papers-Materials/):** Notes and summaries on key AI research topics.
+-   **[ML Web App References](./Research-Papers-Materials/):** An extensive library of over 20 reference ML web applications that I have analyzed to study different architectures and techniques.
 
 ---
 
@@ -99,5 +99,5 @@ This section contains my personal knowledge base of curated research materials a
 
 I am always looking for new challenges and opportunities to collaborate. Please feel free to reach out!
 
--   **LinkedIn:** [https://www.linkedin.com/in/sohan-sakhare-0940591ba/]([https://www.linkedin.com/in/sohan-sakhare-0940591ba/])
+-   **LinkedIn:** [sohan-sakhare-0940591ba]([https://www.linkedin.com/in/sohan-sakhare-0940591ba/])
 -   **Email:** [sohansakhare2001@gmail.com](mailto:[sohansakhare2001@gmail.com])
