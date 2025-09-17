@@ -99,5 +99,5 @@ This section contains my personal knowledge base of curated research materials a
 
 I am always looking for new challenges and opportunities to collaborate. Please feel free to reach out!
 
--   **LinkedIn:** [sohan-sakhare-0940591ba]([https://www.linkedin.com/in/sohan-sakhare-0940591ba/])
--   **Email:** [sohansakhare2001@gmail.com](mailto:[sohansakhare2001@gmail.com])
+-   **LinkedIn:** [Sohan Sakhare](https://www.linkedin.com/in/sohan-sakhare-0940591ba/)
+-   **Email:** [sohansakhare2001@gmail.com](mailto:sohansakhare2001@gmail.com)
