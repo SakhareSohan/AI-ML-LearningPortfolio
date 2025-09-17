@@ -1,14 +1,14 @@
-[submodule "DL-Projects/Ensemble/AdaBoost(Disaster-Tweet-Classification)"]
-	path = DL-Projects/Ensemble/AdaBoost(Disaster-Tweet-Classification)
+[submodule "DeepLearning-Projects/Ensemble/AdaBoost(Disaster-Tweet-Classification)"]
+	path = DeepLearning-Projects/Ensemble/AdaBoost(Disaster-Tweet-Classification)
 	url = https://github.com/SakhareSohan/Adaboost-NaturalDisasterCommentIdentifier.git
-[submodule "DL-Projects/Regression/LSTM(Stock-Market-Prediction)-Implementation"]
-	path = DL-Projects/Regression/LSTM(Stock-Market-Prediction)-Implementation
+[submodule "DeepLearning-Projects/Regression/LSTM(Stock-Market-Prediction)-Implementation"]
+	path = DeepLearning-Projects/Regression/LSTM(Stock-Market-Prediction)-Implementation
 	url = https://github.com/SakhareSohan/LSTM-StockMarketPrediction.git
-[submodule "ML-Projects/Classification/SVC&Logistic-Regression(Diseases-Prediction)-Implementation"]
-	path = ML-Projects/Classification/SVC&Logistic-Regression(Diseases-Prediction)-Implementation
+[submodule "MachineLearning-Projects/Classification/SVC&Logistic-Regression(Diseases-Prediction)-Implementation"]
+	path = MachineLearning-Projects/Classification/SVC&Logistic-Regression(Diseases-Prediction)-Implementation
 	url = https://github.com/SakhareSohan/SVC_LogisticRegression-MultipleDiseasePrediction.git
-[submodule "ML-Projects/Regression/Point-Regression-Implementation"]
-	path = ML-Projects/Regression/Point-Regression-Implementation
+[submodule "MachineLearning-Projects/Regression/Point-Regression-Implementation"]
+	path = MachineLearning-Projects/Regression/Point-Regression-Implementation
 	url = https://github.com/SakhareSohan/Point-Regression-StudentPerformance.git
 [submodule "NLP-Projects/ASR/wav2vec-Implementation"]
 	path = NLP-Projects/ASR/wav2vec-Implementation
