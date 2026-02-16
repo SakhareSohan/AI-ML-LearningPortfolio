@@ -22,3 +22,9 @@
 [submodule "Research-Papers-Materials/ML-WebApps-Reference"]
 	path = Research-Papers-Materials/ML-WebApps-Reference
 	url = https://github.com/SakhareSohan/ML-WebApps-Reference.git
+[submodule "DeepLearning-Projects/ComputerVision/People-Counting-Implementation"]
+	path = DeepLearning-Projects/ComputerVision/People-Counting-Implementation
+	url = https://github.com/SakhareSohan/People-Counting-Crowd-Density-Detection.git
+[submodule "DeepLearning-Projects/OSINT/Robin-DarkWeb-OSINT"]
+	path = DeepLearning-Projects/OSINT/Robin-DarkWeb-OSINT
+	url = https://github.com/SakhareSohan/robin.git
